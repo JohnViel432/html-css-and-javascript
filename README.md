@@ -1,2 +1,2 @@
 # html-css-and-javascript
- Web -deveolper
+ Web -developer
